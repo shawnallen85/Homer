@@ -4,9 +4,9 @@ This is a work in progress with no TLC.
 
 ## Why?
 
-I wanted to have a HomeRunHD client for Linux.
+I wanted to have a [HDHomeRun](https://www.silicondust.com/) client for Linux.
 
-This has only been tested on Ubuntu 20.04 LTS on the x64_64 platform.
+This has only been tested on Ubuntu 20.04 LTS on the x64_64 platform with the HDHomeRun CONNECT device.
 
 ## Icon
 
